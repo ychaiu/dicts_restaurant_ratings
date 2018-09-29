@@ -33,10 +33,5 @@ def user_ratings():
 user_ratings()
 
 
-#  Traceback (most recent call last):
-#   File "ratings.py", line 14, in <module>
-#     ratings_dict("scores.txt")
-#   File "ratings.py", line 10, in ratings_dict
-#     restaurant_name =restaurant_ratings.split(":")[0]
-# AttributeError: '_io.TextIOWrapper' object has no attribute 'split'
+
 
